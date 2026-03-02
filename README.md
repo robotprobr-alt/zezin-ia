@@ -1,2 +1,0 @@
-# zezin-ia
-Meu Zeca.
